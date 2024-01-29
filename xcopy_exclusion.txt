@@ -1,0 +1,3 @@
+.git\
+opengl_project_new.bat
+xcopy_exclusion.txt
